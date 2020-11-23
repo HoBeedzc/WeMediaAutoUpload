@@ -1,2 +1,2 @@
-# We_Media_Auto_Upload
+# We Media Auto Upload Tools
 Use Python to upload article to we media platform.
